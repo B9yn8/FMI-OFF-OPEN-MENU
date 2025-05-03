@@ -1,7 +1,7 @@
 # iCloud FMI OFF Tool - Open Menu
 
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/1216440263749402795/1368351378250006670/photo_2025-02-15_09-38-51-modified.png?ex=6817e807&is=68169687&hm=bd2b3ed8e37ca15f72a25a94a0367ca8f83973ea952c21e361f80cf4d2cbdcd7&=&format=webp&quality=lossless&width=966&height=543" alt="Tool Thumbnail" width="500">
+  <img src="https://media.discordapp.net/attachments/1216440263749402795/1368351378250006670/photo_2025-02-15_09-38-51-modified.png?ex=6817e807&is=68169687&hm=bd2b3ed8e37ca15f72a25a94a0367ca8f83973ea952c21e361f80cf4d2cbdcd7&=&format=webp&quality=lossless&width=966&height=543" alt="Tool Thumbnail" width="1920">
   <br>
   <img src="https://media.discordapp.net/attachments/1216440263749402795/1368346896959017041/Call.png?width=200&height=200" alt="Tool Icon" width="100">
 </p>
