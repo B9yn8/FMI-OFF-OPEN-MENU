@@ -167,6 +167,6 @@ Allowance is made for "fair use" for purposes such as criticism, comment, news r
 
 **For enterprise licensing or security researcher inquiries:**  
 📧 bellidevsupport@chefalicious.com  
-🔐 PGP Key: [Available on Keybase](https://keybase.io/)
+🔐 PGP Key: [Available on Keybase](https://keybase.io/rob1n)
 
 *Last Updated: 2025-05-04*
