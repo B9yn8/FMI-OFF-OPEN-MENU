@@ -31,7 +31,7 @@ For registration and support:
 ## 👨‍💻 Developer
 **Hamza - Belli Dev**  
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/1216440263749402795/1368346896640512031/ChatGPT_Image_May_3_2025_12_44_57_PM_1.png?width=150&height=150" alt="Developer" width="150">
+  <img src="https://media.discordapp.net/attachments/1216440263749402795/1368346896640512031/ChatGPT_Image_May_3_2025_12_44_57_PM_1.png?ex=6817e3da&is=6816925a&hm=aeea6ee7ec009bec152d4305b6b5b22e9e12a1a13d47ea38a690e4d156a55444&=&format=webp&quality=lossless&width=544&height=544" alt="Developer" width="150">
 </p>
 
 ## 🌐 Follow Us
