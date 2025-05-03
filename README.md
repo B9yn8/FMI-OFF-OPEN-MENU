@@ -25,8 +25,7 @@ View full compatibility matrix and service tiers:
 
 | Chipset | iOS Version | Model Support     |
 |---------|-------------|------------------|
-| A9-A11  | 12.0–14.8   | iPhone 6S–8 Plus |
-| A12+    | 15.0–16.5   | iPhone XR–13     |
+| A9-A11  | 12.0–14.8   | iPhone 6S - X |
 
 ---
 
@@ -76,8 +75,8 @@ graph TD
 ## 📞 Support Channels
 **Premium Support Available**  
 - Telegram: [@ZP_H3](https://t.me/ZP_H3) (24/7)  
-- Email: support@bellidev.tech  
-- Discord: [BelliDev Community](https://discord.gg/bellidev)  
+- Email: bellidevsupport@chefalicious.com 
+- Discord: [BelliDev Community](https://belliactivator.vercel.app)  
 - Instagram: [_3e11i](https://instagram.com/_3e11i)
 
 *Average response time: <15 minutes*
@@ -99,7 +98,7 @@ graph TD
 |----------|------|---------|
 | YouTube | [@BELLIDEV](https://youtube.com/@BELLIDEV) | Tutorials & Updates |
 | Twitter | [@n1g4tt4](https://x.com/n1g4tt4) | Security Alerts |
-| GitHub | [BelliDev](https://github.com/bellidev) | Open-Source Tools |
+| GitHub | [BelliDev](https://github.com/b9yn8) | Open-Source Tools |
 | Instagram | [_3e11i](https://instagram.com/_3e11i) | Behind-the-Scenes |
 
 ---
@@ -153,7 +152,7 @@ Allowance is made for "fair use" for purposes such as criticism, comment, news r
 ## 📥 Download Options
 1. **Markdown Version**: [Download README.md](javascript:void(0);) *(Right-click → Save As)*  
 2. **PDF Version**: [Download Documentation.pdf](javascript:void(0);)  
-3. **Website Mirror**: [Full Documentation](https://belliactivator.vercel.app/docs)
+3. **Website Mirror**: [Full Documentation](https://belliactivator.vercel.app/#)
 
 ```html
 <!-- HTML Embed Code -->
@@ -168,6 +167,6 @@ Allowance is made for "fair use" for purposes such as criticism, comment, news r
 
 **For enterprise licensing or security researcher inquiries:**  
 📧 contact@bellidev.tech  
-🔐 PGP Key: [Available on Keybase](https://keybase.io/bellidev)
+🔐 PGP Key: [Available on Keybase](https://keybase.io/)
 
 *Last Updated: 2025-05-04*
