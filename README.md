@@ -8,9 +8,9 @@
 <p align="left">
   <br>
   <img src="https://media.discordapp.net/attachments/1216440263749402795/1368346896959017041/Call.png?ex=6817e3da&is=6816925a&hm=3afaa25ca20f8a639636de566ae787c11e07d7c1f546688798951aec04e5c48f&=&format=webp&quality=lossless&width=544&height=544" alt="Tool Icon" width="80">
-</p>
-A professional tool to remove iCloud activation lock (FMI OFF) through Open Menu method.
 
+A professional tool to remove iCloud activation lock (FMI OFF) through Open Menu method.
+</p>
 ## 📱 Supported Devices
 Check supported devices and pricing on our website:  
 🔗 [belliactivator.vercel.app](https://belliactivator.vercel.app)
@@ -24,10 +24,9 @@ Check supported devices and pricing on our website:
 
 ## 📸 Tool Preview
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/1216440263749402795/1368347518638882899/image.png?width=400" alt="Tool Interface" width="400">
-</p>
-
+  <img src="https://media.discordapp.net/attachments/1216440263749402795/1368351378656727091/image-modified.png?ex=6817e807&is=68169687&hm=0b6891f670e24b6b9ce67f32099df0263c40e22ae968480631a614676226c4fd&=&format=webp&quality=lossless" alt="Tool Interface" width="1920"></p>
 ## 📞 Contact
+
 For registration and support:  
 📩 Telegram: [@ZP_H3](https://t.me/ZP_H3)
 
