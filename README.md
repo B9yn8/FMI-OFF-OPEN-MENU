@@ -3,9 +3,12 @@
 <p align="center">
   <img src="https://media.discordapp.net/attachments/1216440263749402795/1368351378250006670/photo_2025-02-15_09-38-51-modified.png?ex=6817e807&is=68169687&hm=bd2b3ed8e37ca15f72a25a94a0367ca8f83973ea952c21e361f80cf4d2cbdcd7&=&format=webp&quality=lossless&width=966&height=543" alt="Tool Thumbnail" width="1920">
   <br>
-  <img src="https://media.discordapp.net/attachments/1216440263749402795/1368346896959017041/Call.png?width=200&height=200" alt="Tool Icon" width="100">
-</p>
 
+</p>
+<p align="left">
+  <br>
+  <img src="https://media.discordapp.net/attachments/1216440263749402795/1368346896959017041/Call.png?ex=6817e3da&is=6816925a&hm=3afaa25ca20f8a639636de566ae787c11e07d7c1f546688798951aec04e5c48f&=&format=webp&quality=lossless&width=544&height=544" alt="Tool Icon" width="80">
+</p>
 A professional tool to remove iCloud activation lock (FMI OFF) through Open Menu method.
 
 ## 📱 Supported Devices
