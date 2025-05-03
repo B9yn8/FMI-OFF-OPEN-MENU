@@ -3,7 +3,7 @@
 *Professional Activation Lock Removal Solution*
 
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/1216440263749402795/1368351378250006670/photo_2025-02-15_09-38-51-modified.png" alt="iCloud FMI OFF Tool" width="800">
+  <img src="https://media.discordapp.net/attachments/1216440263749402795/1368351378250006670/photo_2025-02-15_09-38-51-modified.png?ex=6817e807&is=68169687&hm=bd2b3ed8e37ca15f72a25a94a0367ca8f83973ea952c21e361f80cf4d2cbdcd7&=&format=webp&quality=lossless&width=966&height=543" alt="iCloud FMI OFF Tool" width="800">
 </p>
 
 ## 📌 Core Features
@@ -14,7 +14,7 @@
 ✅ **Device Data Preservation**
 
 <p align="left">
-  <img src="https://media.discordapp.net/attachments/1216440263749402795/1368346896959017041/Call.png" alt="Tool Icon" width="60">
+  <img src="https://media.discordapp.net/attachments/1216440263749402795/1368346896959017041/Call.png?ex=6817e3da&is=6816925a&hm=3afaa25ca20f8a639636de566ae787c11e07d7c1f546688798951aec04e5c48f&=&format=webp&quality=lossless&width=544&height=544" alt="Tool Icon" width="60">
 </p>
 
 ---
@@ -66,7 +66,7 @@ graph TD
 
 ## 🖥️ Tool Interface Preview
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/1216440263749402795/1368351378656727091/image-modified.png" alt="Tool UI" width="700">
+  <img src="https://media.discordapp.net/attachments/1216440263749402795/1368351378656727091/image-modified.png?ex=6817e807&is=68169687&hm=0b6891f670e24b6b9ce67f32099df0263c40e22ae968480631a614676226c4fd&=&format=webp&quality=lossless" alt="Tool UI" width="700">
   <br>
   <em>Real-time status monitoring interface</em>
 </p>
@@ -86,7 +86,7 @@ graph TD
 
 ## 👨‍💻 Development Team
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/1216440263749402795/1368352360685895790/cropped_image_1.png" alt="Hamza - Belli Dev" width="120">
+  <img src="https://media.discordapp.net/attachments/1216440263749402795/1368352360685895790/cropped_image_1.png?ex=6817e8f1&is=68169771&hm=6dc6a2d7ad63678c93f880bec1b399eff055ce6c9d15f429c3499e940e22b63c&=&format=webp&quality=lossless&width=648&height=648" alt="Hamza - Belli Dev" width="120">
   <br>
   <strong>Hamza – Lead Developer</strong><br>
   <sub>iOS Security Researcher since 2018</sub>
