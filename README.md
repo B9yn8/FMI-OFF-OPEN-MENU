@@ -55,7 +55,7 @@ graph TD
 3. **Execution Phase**
    - Wait for the "Success" message (approx. 2–5 minutes).
    - Immediately perform a **Full Flash** via 3uTools.  
-     ⚠️ *Make sure to disable Airplane Mode before flashing!*
+     ⚠️ *Make sure to do not disable Airplane Mode before flashing!*
 
 4. **Completion**
    - Install a fresh version of iOS.
