@@ -170,3 +170,11 @@ Allowance is made for "fair use" for purposes such as criticism, comment, news r
 🔐 PGP Key: [Available on Keybase](https://keybase.io/rob1n)
 
 *Last Updated: 2025-05-04*
+---
+© 2025 **BELLI AIO UNLOCKER – All Rights Reserved**  
+For support: [@BELLIDEV0](https://t.me/BELLIDEV0)  
+Telegram Channel: [https://t.me/BelliTools](https://t.me/BelliTools)
+GitHub: [https://github.com/B9yn8](https://github.com/B9yn8)  
+Website: [https://belliactivator.vercel.app](https://belliactivator.vercel.app)  
+YouTube: [@BELLIDEV](https://www.youtube.com/@BELLIDEV)  
+Payment Bot: [@newSignalBOBOT](https://t.me/newSignalBOBOT)
